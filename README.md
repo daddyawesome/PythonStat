@@ -1,4 +1,4 @@
 # PythonStat
-## My Repositry for tHings I will be learning from Kaggle
+## My Repository for the things that I am going to learn from Kaggle
 
 All Stat related stuff will be save here
